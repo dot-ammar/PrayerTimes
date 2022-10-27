@@ -7,6 +7,6 @@ Simply click the `PrayerTimes.exe` file and a notification similar to this shoul
 
 <img width="271" alt="Screenshot_20221026_091419" src="https://user-images.githubusercontent.com/80134790/198168183-5ede569c-1675-430b-afab-e54bce8a4791.png">
 
-
+You can install the latest version [here](https://github.com/RSLATECH/PrayerTimes/releases).
 
 This application using the **Aladhan API**; Therefore network connection required.  https://aladhan.com/prayer-times-api 
