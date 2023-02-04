@@ -1,5 +1,5 @@
 # PrayerTimes
-PrayerTimes is a simple application that lives in a Windows Notification. It displays umcoming the upcoming Islamic prayer times for your location. 
+PrayerTimes is a simple application that lives in a Windows Notification. It displays the upcoming Islamic prayer times for your location. 
 
 There are various different perameters that can be changed in the `Config.json` file. By default you will find that the latitude and longitude is set to New York and the method is ISNA (Islamic Society of North America).
 
